@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Nathan Cheou
+This is a repository of my Data Analytics projects to showcase some knowledge of data visualization and machine learning, mostly with Python, but some SQL and R as well.
 
 <!--
 **NCheou/NCheou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
